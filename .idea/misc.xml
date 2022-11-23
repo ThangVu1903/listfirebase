@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/drawable-v24/bg_dish.xml" value="0.138" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.138" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/drawable/layer_signup.xml" value="0.138" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/layout/activity_create_dish.xml" value="0.16824324324324325" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/layout/activity_list.xml" value="0.16824324324324325" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/layout/activity_sign_up.xml" value="0.15912162162162163" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/layout/login.xml" value="0.176" />
+        <entry key="..\:/THANG/Dai_hoc/Nam_3/Hk1/LapTrinhMobile/ListFireBase/app/src/main/res/layout/subitem.xml" value="0.16824324324324325" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
